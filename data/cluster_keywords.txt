@@ -1,0 +1,4 @@
+Cluster 0: business, sports, politics, culture, celebrities, arts
+Cluster 1: sports, politics, culture, celebrities, business, arts
+Cluster 2: culture, celebrities, arts, sports, politics, business
+Cluster 3: politics, sports, culture, celebrities, business, arts
